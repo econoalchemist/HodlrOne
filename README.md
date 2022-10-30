@@ -10,4 +10,7 @@ The way a user handles their seed phrase is very important because anyone who ga
 ## Getting Started with the Hodlr One Titanium
 The Hodlr One Titanium is shipped in a standard parcel padded envelope. Inside that is the orange pouch which has only the nondescript barcode markings on it. 
 
-
+<p align="center">
+<img width="400" src="assets/hodlr_01.jpg">
+<img width="400" src="assets/hodlr_02.jpg">
+</p>
