@@ -12,7 +12,7 @@ Inside the orange pouch is a vacuum sealed clear bag which contains everything n
 
 Inside the clear bag you will find:
 - security seals
-- one or three titanium Hodlr One plates depending on which package you bought
+- one, two, or three titanium Hodlr One plates depending on which package you bought
 - a rubber mat to use when stamping
 - one steel center punch
 - one pencil
