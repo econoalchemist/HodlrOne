@@ -19,5 +19,5 @@ The information contained in the Hodlr One Titanium plates was 100% recoverable.
 ![](assets/hodlr_49.jpg)
 ![](assets/hodlr_52.jpg)
 
-Conclusion
+## Conclusion
 The Hodlr One Titanium is a robust Bitcoin backup medium that is simple to use and easy to conceal. There are clever ways to stamp many details about your backup like how many words it has in total, how many shares your entire backup contains, how many of those shares are required for a recovery, and even if there are accompanying GPS coordinates. Anytime there is a conversion involved between seed words and index numbers, use caution. Check out the Hodlr Swiss website to learn more about their high quality products: https://hodlr.swiss/ or follow them on Twitter: https://twitter.com/hodlrswiss
