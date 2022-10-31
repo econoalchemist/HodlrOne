@@ -12,7 +12,7 @@ Once you have the index numbers written down on the recovery sheet below each co
 
 ![](assets/hodlr_15.jpg)
 
-On the reverse side of each plate there is an icon that reads "SOT", this stands for Share Of Threshold. The way this is interpreted is that the outter most circle indicates which number share this plate is. The second circle indicates the total number of shares in the entire backup. And the inner most circle indicates the minimum threshold of shares required to recovery the bitcoin. For example, since this is a three part backup, the outter most circle will be stamped "1", "2", & "3" respectively for each plate. Then the second circle will be stamped "3" on each plate because there are three total pieces. Finally, the inner most circle will be stamped "2" on each plate because two pieces at minimum are required for a recovery.
+On the reverse side of each plate there is an icon that reads "SOT", this stands for Share Of Threshold. The way this is interpreted is that the outermost circle indicates which number share this plate is. The second circle indicates the total number of shares in the entire backup. And the innermost circle indicates the minimum threshold of shares required to recover the bitcoin. For example, since this is a three part backup, the outermost circle will be stamped "1", "2", & "3" respectively for each plate. Then the second circle will be stamped "3" on each plate because there are three total pieces. Finally, the innermost circle will be stamped "2" on each plate because two pieces at minimum are required for a recovery.
 
 ![](assets/hodlr_16.jpg)
 
@@ -28,7 +28,7 @@ Be sure to double check your work after pre-marking the plates. If you make a mi
 
 ![](assets/hodlr_21.jpg)
 
-Once you have pre-marked all of your dots on all of your plates, double checked your work, and made any necessary corrections you are ready to start stamping your maks with the included center punch. Safely destroy the paper recovery sheet by burning it. Do not use a different punch than the one that was included with the Holdr One Titanium kit. This center punch is the appropriate size for the available space on the plates.
+Once you have pre-marked all of your dots on all of your plates, double checked your work, and made any necessary corrections you are ready to start stamping your marks with the included center punch. Safely destroy the paper recovery sheet by burning it. Do not use a different punch than the one that was included with the Holdr One Titanium kit. This center punch is the appropriate size for the available space on the plates.
 
 - Place the plate in the included rubber mat before hammering. 
 - Use a solid surface like a concrete floor.
@@ -37,7 +37,7 @@ Once you have pre-marked all of your dots on all of your plates, double checked 
 
 ![](assets/hodlr_22.jpg)
 
-Once stamped, you should have clear well-defined making that are now a permanent part of the plate. 
+Once stamped, you should have clear well-defined markings that are now a permanent part of the plate. 
 
 ![](assets/hodlr_24.jpg)
 ![](assets/hodlr_25.jpg)
