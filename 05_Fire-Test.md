@@ -10,7 +10,6 @@ The information contained in the Hodlr One Titanium plates was 100% recoverable.
 ![](assets/hodlr_36.jpg)
 ![](assets/hodlr_37.jpg)
 ![](assets/hodlr_38.jpg)
-![](assets/hodlr_39.jpg)
 ![](assets/hodlr_41.jpg)
 ![](assets/hodlr_42.jpg)
 ![](assets/hodlr_44.jpg)
