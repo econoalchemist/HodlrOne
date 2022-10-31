@@ -28,7 +28,7 @@ Be sure to double check your work after pre-marking the plates. If you make a mi
 
 ![](assets/hodlr_21.jpg)
 
-Once you have pre-marked all of your dots on all of your plates, double checked your work, and made any necessary corrections you are ready to start stamping your maks with the included center punch. Do not use a different punch than the one that was included with the Holdr One Titanium kit. This center punch is the appropriate size for the available space on the plates.
+Once you have pre-marked all of your dots on all of your plates, double checked your work, and made any necessary corrections you are ready to start stamping your maks with the included center punch. Safely destroy the paper recovery sheet by burning it. Do not use a different punch than the one that was included with the Holdr One Titanium kit. This center punch is the appropriate size for the available space on the plates.
 
 - Place the plate in the included rubber mat before hammering. 
 - Use a solid surface like a concrete floor.
