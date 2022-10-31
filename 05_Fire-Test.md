@@ -3,3 +3,5 @@ Titanium has a melting point of 1668°C which is roughly 250°C higher than stai
 
 Here is a video of a fire test bringing the three Hodlr One Titanium plates up to melting point to ensure that the information they contained would be recoverable. 
 
+[![Hodlr One Titanium Fire Test](/assets/video_thumbnail.png)](https://media.econoalchemist.com/w/h2Ny2A4PwHAuYPeFKX9Sy6 "Hodlr One Titanium Fire Test")
+
