@@ -16,3 +16,5 @@ This article covers:
 - Pre-Marking & Stamping Index Numbers
 - Security Seals
 - Fire Test & Recovery
+
+This product involves converting stndardized seed words into a corresponding numbered index. Exercise caution when making such conversions.
