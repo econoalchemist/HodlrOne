@@ -17,4 +17,4 @@ This article covers:
 - Security Seals
 - Fire Test & Recovery
 
-This product involves converting stndardized seed words into a corresponding numbered index. Exercise caution when making such conversions.
+This product involves converting standardized seed words into a corresponding numbered index. Exercise caution when making such conversions.
